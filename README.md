@@ -1,30 +1,30 @@
-## DevOps Engineer
+<!-- # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+This+is+Ranjan+Kumar;Self+taught+java+Developer+!!;Backend+Developer+!) -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&vCenter=true&width=800&color=04e0bb&lines=Hi+there+%F0%9F%91%8B+This+is+Ranjan+Kumar;Self+taught+java+Developer+!!;Backend+Developer+!)
 
-Hello! I'm a DevOps Engineer with a passion for automation, continuous integration, and continuous deployment. My expertise lies in bridging the gap between development and operations, ensuring smooth and efficient software delivery. Here's a bit about what I do and what you can find in my repositories:
+<h3 align="left">I'm a Java & JavaScript developer from India. I build applications/API's in SpringBoot. You can often see me exploring new technologies, I do enjoy working with Backend Technologies like Node and Express and also well versed in Spring. Take a look at my repositories - some of my best works are pinned here.</h3>
 
-### 🛠 Skills & Tools
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI
-- **Configuration Management:** Ansible, Chef, Puppet
-- **Containerization:** Docker, Kubernetes
-- **Cloud Platforms:** AWS, Azure, GCP
-- **Infrastructure as Code:** Terraform, CloudFormation
-- **Monitoring & Logging:** Prometheus, Grafana, ELK Stack
-- **Version Control:** Git, GitHub, Bitbucket
+- 📫 How to reach me **ranjan.irl3107@gmail.com**
 
-### 🌟 What I Do
-- Design and implement CI/CD pipelines to streamline code deployment.
-- Automate infrastructure provisioning and management.
-- Deploy and manage containerized applications using Kubernetes.
-- Ensure high availability and scalability of services.
-- Implement robust monitoring and logging solutions.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="https://twitter.com/yourprofile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="twitter" height="30" width="30" /></a>
+</p>
 
-### 📈 Projects
-- **[CI/CD Pipelines](https://github.com/yourusername/cicd-pipelines):** A collection of scripts and configurations for building CI/CD pipelines with Jenkins and GitHub Actions.
-- **[Kubernetes Deployments](https://github.com/yourusername/kubernetes-deployments):** Examples and best practices for deploying applications in Kubernetes.
-- **[Infrastructure as Code](https://github.com/yourusername/infra-as-code):** Terraform scripts for automating cloud infrastructure.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
 
-### 📫 Get in Touch
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email:** your.email@example.com
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ram-Ranjan&show_icons=true&locale=en&layout=compact" alt="ram-Ranjan" /></p> 
+<br><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ram-Ranjan&show_icons=true&locale=en" alt="ram-Ranjan" /></p>
 
-Feel free to explore my repositories, contribute, or reach out if you have any questions or collaboration ideas. Let's build something great together!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ram-Ranjan&" alt="ram-Ranjan" /></p> -->
